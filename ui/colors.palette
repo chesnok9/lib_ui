@@ -637,3 +637,11 @@ sideBarBadgeBgMuted: #8393a3; // filters side bar unimportant badge background
 sideBarBadgeFg: #ffffff; // filters side bar badge text
 
 songCoverOverlayFg: #00000066; // song cover overlay
+
+
+// Daladno start
+daladnoPrimary: #ffab00; // Daladno theme primary orange
+daladnoPrimaryDark: #ff8f00; // Daladno theme primary orange dark
+daladnoAccent: #00bfa5; // Daladno theme accent teal
+daladnoAccentDark: #008e76; // Daladno theme accent teal dark
+// Daladno end
